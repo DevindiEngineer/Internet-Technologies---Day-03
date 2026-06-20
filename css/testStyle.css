@@ -1,0 +1,36 @@
+.header-style {
+    text-align: center;
+    font-size: 500%;
+    color: rgb(196, 28, 39);
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+*{
+    background-color:rgb(200, 237, 200);
+}
+
+h2{
+    text-align: center;
+    color: rgb(15, 50, 50);
+    text-decoration: underline;
+    font-size: 200%;
+}
+
+.center-all{
+    align-items: center;
+}
+
+.decorate-lines-text{
+    border: 5px solid black;
+    border-radius: 50px;
+    border-style: dashed;
+}
+
+body{
+    background-image: url(../pexels-gi-gi-1289764006-31744632.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
